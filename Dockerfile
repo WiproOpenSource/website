@@ -4,7 +4,7 @@
 # change is that the Hugo version is now an overridable argument rather than a fixed
 # environment variable.
 
-FROM alpine:latest
+FROM alpine:3.15.4
 
 MAINTAINER Luc Perkins <lperkins@linuxfoundation.org>
 
